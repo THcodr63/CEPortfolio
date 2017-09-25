@@ -7,3 +7,18 @@ body {
   main {
     flex: 1 0 auto;
   }
+
+  nav {
+    background-color: #03DD82;
+  }
+
+  .page-footer {
+    background-color: #03DD82;
+  }
+
+  .parallax-container {
+    position: relative;
+    overflow: hidden;
+    height: 500px;
+  }
+
